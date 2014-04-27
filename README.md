@@ -2,9 +2,12 @@ Project on Getting and Cleaning Data : Courseera
 ======================
 
 This repo contains the following files
+-------------------------
   *Readme.md 
+###
     It contains information about the files in this repository and the steps to run R script
   *Codebook.md
+###
     It is codebook which describes the variables, data, assumptions, files and the operations         
     which are done to get the final processed,cleaned and tidy data.
   *run_analysis.R
