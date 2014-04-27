@@ -18,6 +18,9 @@ This repo contains the following files
     compressed data set of the project.Source of this dataset is 
       http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
+###  * Assignment_DataandCleaning.txt
+    This is a text file containing the output tidy data.
+
 How to use run_analysis R Script
 -------------------------
   * You first need to install R and the basic packages of R
