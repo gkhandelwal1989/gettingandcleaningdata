@@ -3,19 +3,18 @@ Project on Getting and Cleaning Data : Courseera
 
 This repo contains the following files
 -------------------------
-  * Readme.md 
-###
+###  * Readme.md 
     It contains information about the files in this repository and the steps to run R script
-  * Codebook.md
-###
+    
+###  * Codebook.md
     It is codebook which describes the variables, data, assumptions, files and the operations         
     which are done to get the final processed,cleaned and tidy data.
-  * run_analysis.R
-### 
+    
+###  * run_analysis.R
     It is a R script to get tidy data set from the raw data.Codebook for this is Codebook.md.
     Data used for this script is getdata-projectfiles-UCI HAR Dataset.zip
-  * getdata-projectfiles-UCI HAR Dataset.zip
-###
+    
+###  * getdata-projectfiles-UCI HAR Dataset.zip
     compressed data set of the project.Source of this dataset is 
       http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
