@@ -79,7 +79,7 @@ Data Collection and Cleaning Description
 * Split the data based on subject and activity. Used sapply, to do a mean of each variable for  each subject and activity. This generated a matrix of 180 coloumns and 68 rows. Coloumn names and Row names can be read using colnames and rownames respectively. 
 * The above step while calculating mean will throw warning messages. Reason is activity coloumn has names, and therefore mean can't be computed and warning says it is returning NA. It can be neglected as we don't need this coloumn in our future process and therefore this coloumn is dropped in next step.
 * Coloumn names with activity and subject has been removed to make data tidy.This will leave the data set to be equal to 180 coloumns and 66 rows.
-* New data set is a matrix with coloumn names as activityname.subject.For example,LAYING.1,SITTING.1 etc. Rownames are the variable names extracted from features.txt.For example tBodyAcc-std()-Z, tBodyAcc-mean()-Z etc.
+* New data set is a matrix with coloumn names as activityname.subject.For example,
 * This data is written to a text file  "Assignment_DataandCleaning.txt" which can further be used to do a data analysis on it.
 
 ========================================================
